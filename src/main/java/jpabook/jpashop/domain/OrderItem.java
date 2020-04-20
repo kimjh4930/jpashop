@@ -1,5 +1,7 @@
 package jpabook.jpashop.domain;
 
+import jpabook.jpashop.domain.item.Item;
+
 import javax.persistence.*;
 
 import static javax.persistence.FetchType.*;

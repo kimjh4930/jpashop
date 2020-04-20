@@ -1,4 +1,6 @@
-package jpabook.jpashop.domain;
+package jpabook.jpashop.domain.item;
+
+import jpabook.jpashop.domain.CategoryItem;
 
 import javax.persistence.*;
 import java.util.ArrayList;
